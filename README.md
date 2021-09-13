@@ -1,11 +1,11 @@
-### Gatsby's Propiedades (Node Server)
+### Gatsby's Propiedades (Strapi Server)
 
 ## 🚀 Quick start
 
 **Start developing**
 
 ```shell
-npm run dev
+npm develop
 ```
 
 **Build the app for production**
