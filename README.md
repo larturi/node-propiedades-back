@@ -1,4 +1,4 @@
-### Gatsby's Propiedades (Strapi Server)
+# Gatsby's Propiedades (Strapi Server)
 
 ## 🚀 Quick start
 
