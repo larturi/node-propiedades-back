@@ -1,3 +1,17 @@
-# Strapi application
+### Gatsby's Propiedades (Node Server)
 
-A quick description of your strapi application
+## 🚀 Quick start
+
+**Start developing**
+
+```shell
+npm run dev
+```
+
+**Build the app for production**
+
+```shell
+npm start
+```
+
+##### Made with ❤️ by Leandro Arturi
